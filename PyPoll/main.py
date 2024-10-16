@@ -46,7 +46,7 @@ with open(file_to_load) as election_data:
 
 
 # Open a text file to save the output
-with open(file_to_output, "w", encoding=utf-8) as txt_file:
+with open(file_to_output, "w", encoding="utf-8") as txt_file:
     #Write the title to the text file
     txt_file.write(f'Election Results\n')
     txt_file.write(f'-----------------------------\n')

@@ -1,6 +1,6 @@
 ## PyBank - Financial Analysis
 
-I am creating a Financial Analysis of a company based on the budget data given. The dataset is composed of two columns: "Date" and "Profit/Losses".
+I am creating Financial Analysis of a company based on the budget data given. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
 ## My goal is to analyze the data and calculate each of these values:
 - The total number of months included in the dataset
@@ -11,11 +11,11 @@ I am creating a Financial Analysis of a company based on the budget data given. 
 
 ## Results of Financial Analysis
 > **Financial Analysis**
-> Total Months: 86
-> Total: $22564198
-> Average Change: $-8311.11
-> Greatest Increase In Profits: Aug-16 ($1862002)
-> Greatest Decrease In Profits: Feb-14 ($-1825558)
+> Total Months: 86 <br>
+> Total: $22564198 <br>
+> Average Change: $-8311.11 <br>
+> Greatest Increase In Profits: Aug-16 ($1862002) <br>
+> Greatest Decrease In Profits: Feb-14 ($-1825558) <br>
 
 ## Setup & Usage for PyPoll
 - main.py: Run this main script in 'PyBank' folder
@@ -35,13 +35,13 @@ I have been given a set of poll data called election_data.csv. The dataset is co
 
 ## Results of Election Results
 > **Election Results**
-> Total Votes: 369711
+> Total Votes: 369711 <br>
 > -----------------------------
-> Charles Casper Stockham: 23.049% (85213)
-> Diana DeGette: 73.812% (272892)
-> Raymon Anthony Doane: 3.139% (11606)
+> Charles Casper Stockham: 23.049% (85213) <br>
+> Diana DeGette: 73.812% (272892) <br>
+> Raymon Anthony Doane: 3.139% (11606) <br>
 > -----------------------------
-> Winner: Diana DeGette
+> Winner: Diana DeGette <br>
 > -----------------------------
 
 ## Setup & Usage for PyPoll

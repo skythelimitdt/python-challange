@@ -1,23 +1,23 @@
 ## PyBank - Financial Analysis
 
 I am creating Financial Analysis of a company based on the budget data given. The dataset is composed of two columns: "Date" and "Profit/Losses".
-
-## My goal is to analyze the data and calculate each of these values:
+<br>
+My goal is to analyze the data and calculate each of these values:
 - The total number of months included in the dataset
 - The net total amount of "Profit/Losses" over the entire period
 - The changes in "Profit/Losses" over the entire period, and then the average of those changes
 - The greatest increase in profits (date and amount) over the entire period
 - The greatest decrease in profits (date and amount) over the entire period
 
-## Results of Financial Analysis
-> **Financial Analysis**
+### Results of Financial Analysis
+> **Financial Analysis** <br>
 > Total Months: 86 <br>
 > Total: $22564198 <br>
 > Average Change: $-8311.11 <br>
 > Greatest Increase In Profits: Aug-16 ($1862002) <br>
 > Greatest Decrease In Profits: Feb-14 ($-1825558) <br>
 
-## Setup & Usage for PyPoll
+### Setup & Usage for PyBank
 - main.py: Run this main script in 'PyBank' folder
 - budget_data.csv: Data is in 'Resources' folder
 - budget_analysis_txt: Financial Analysis results is in text file in 'analysis' folder
@@ -33,18 +33,15 @@ I have been given a set of poll data called election_data.csv. The dataset is co
 - The total number of votes each candidate won
 - The winner of the election based on popular vote
 
-## Results of Election Results
-> **Election Results**
+### Results of Election Results
+> **Election Results** <br>
 > Total Votes: 369711 <br>
-> -----------------------------
 > Charles Casper Stockham: 23.049% (85213) <br>
 > Diana DeGette: 73.812% (272892) <br>
 > Raymon Anthony Doane: 3.139% (11606) <br>
-> -----------------------------
 > Winner: Diana DeGette <br>
-> -----------------------------
 
-## Setup & Usage for PyPoll
+### Setup & Usage for PyPoll
 - main.py: Run this main script in 'PyPoll' folder
 - election_data.csv: Data is in 'Resources' folder
 - election_analysis_txt: Election results is in text file in 'analysis' folder
